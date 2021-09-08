@@ -1,0 +1,13 @@
+c:\users\anilavci96\documents\visual studio 2015\Projects\14253007HW1\14253007HW1\bin\Debug\14253007HW1.exe.config
+c:\users\anilavci96\documents\visual studio 2015\Projects\14253007HW1\14253007HW1\bin\Debug\14253007HW1.exe
+c:\users\anilavci96\documents\visual studio 2015\Projects\14253007HW1\14253007HW1\bin\Debug\14253007HW1.pdb
+c:\users\anilavci96\documents\visual studio 2015\Projects\14253007HW1\14253007HW1\obj\Debug\14253007HW1.csprojResolveAssemblyReference.cache
+c:\users\anilavci96\documents\visual studio 2015\Projects\14253007HW1\14253007HW1\obj\Debug\14253007HW1.exe
+c:\users\anilavci96\documents\visual studio 2015\Projects\14253007HW1\14253007HW1\obj\Debug\14253007HW1.pdb
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\bin\Debug\14253007HW1.exe.config
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\bin\Debug\14253007HW1.exe
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\bin\Debug\14253007HW1.pdb
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\obj\Debug\14253007HW1.csprojAssemblyReference.cache
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\obj\Debug\14253007HW1.csproj.CoreCompileInputs.cache
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\obj\Debug\14253007HW1.exe
+D:\Users\anila\Desktop\VS Projeleri\14253007HW1\14253007HW1\obj\Debug\14253007HW1.pdb
